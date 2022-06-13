@@ -1,0 +1,22 @@
+name: Kira Liquidity Auction
+image: '/images/kira-auction.png'
+href: 'https://auction.kira.network/'
+description: >
+    This project was for raising initial funding by running auction for KEX tokens on ethereum mainnet which will be
+    migrated to cosmos network, since kira network was being developed based on cosmos SDK. 
+
+
+    Auction was live for 48 hours only and all KEX was sold and raised 4.86M successfully.
+keywords:
+    - name: React
+      href: 'https://reactjs.org/'
+    - name: TypeScript
+      href: 'https://typescriptlang.org/'
+    - name: Bar Chart
+      href: 'https://www.chartjs.org/'
+    - name: Styled Components
+      href: 'https://styled-components.com/'
+links:
+    - name: GitHub
+      href: 'https://github.com/KiraCore/liquidity-program/tree/master/LIP_3.1'
+      icon: 'GitHub'

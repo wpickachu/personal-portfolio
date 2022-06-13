@@ -1,0 +1,26 @@
+name: Digital Valet
+image: '/images/digital-valet.png'
+href: ''
+description: >
+    This project already had first version and V2 is developed and maintained solely by me from 2020 (about 3 years ago
+    from now!), and as time went on, it had been attracting increasing number of customers into DV parking system.
+
+
+    Totally contains 3 projects - DV dashboard, Resident App, Valet App for all managing parked cars of residents and
+    customers in residents and hotels of United States. Backend is backed with a well-designed AWS cloud infrastructure
+    and provides real-time update and monitoring for all parking transactions and payments.
+keywords:
+    - name: React
+      href: 'https://reactjs.org/'
+    - name: React Native
+      href: 'https://reactnative.dev/'
+    - name: AWS Amplify
+      href: 'https://aws.amazon.com/amplify/'
+    - name: GraphQL
+      href: 'https://graphql.org/'
+    - name: Stripe
+      href: 'https://stripe.com/'
+links:
+    - name: GitHub
+      href: 'https://github.com/wpickachu/dv-dashboard'
+      icon: 'GitHub'

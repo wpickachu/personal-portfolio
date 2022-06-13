@@ -1,0 +1,25 @@
+name: BroadStreet
+image: '/images/broad-street.png'
+href: 'https://broadstreet.io'
+description: >
+    BroadStreet a data analytical and visualization platform where customers in U.S. can select/manage their preferred
+    areas on the map, create stories, manage and share them.
+
+
+    I Wrote a module for customizing the selected area of the user on U.S. Map and implemented data visualization in
+    sharable cards, data & mapping tools, generating reports
+keywords:
+    - name: React
+      href: 'https://reactjs.org/'
+    - name: D3.js
+      href: 'https://d3js.org/'
+    - name: TypeScript
+      href: 'https://typescriptlang.org/'
+    - name: Node.js
+      href: 'https://nodejs.org/en/'
+    - name: GitHub API
+      href: 'https://docs.github.com/en/graphql'
+links:
+    - name: GitHub
+      href: 'https://github.com/BroadStreet-Health'
+      icon: 'GitHub'

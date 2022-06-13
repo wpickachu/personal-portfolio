@@ -1,0 +1,14 @@
+- name: Name
+  content: 'Ryan Choi'
+- name: Age
+  content: '28'
+- name: Education
+  content: 'Nanyang Technical University (2010-2014)'
+- name: Major
+  content: 'Computer Science and Information Technology'
+- name: Degree
+  content: 'Bachelor of Science'
+- name: Address
+  content: '12 AMBERDALE DRIVE, M1P 4C1 in Toronto, Canada'
+- name: Work Permit
+  content: 'Canadian Citizen'

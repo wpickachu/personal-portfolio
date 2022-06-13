@@ -1,0 +1,21 @@
+name: Quantum Mob
+image: 'https://media-exp1.licdn.com/dms/image/C4E0BAQEa7BjmgZJYhQ/company-logo_100_100/0/1638288710439?e=2147483647&v=beta&t=JNC1AlXYB8rcl9HG8H7yp2w03i8Jx0fX2KsbJr23APc'
+country: Toronto, Ontario, Canada
+role: Senior Full-Stack Developer
+link: 'https://qmo.io/'
+type: Contract
+date: Oct 2018 - Nov 2019
+description: >
+    ●	Raised 150k funds for a client by automating the process of applying Tourist or Business Non-Immigrant Visa for
+    United States.
+
+
+    ●	Bringing a novel AWS based parking system to the customer market in the transportation space using React, React
+    Native, AWS Amplify.
+
+
+    ●	Wrote an admin dashboard which enables the super administrator and administrators access to all the payment
+    transactions, customer information, vehicle information, units.
+
+
+    ●	Implemented real-time interaction between two mobile apps and dashboard using GraphQL subscription.
